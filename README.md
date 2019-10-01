@@ -1,3 +1,3 @@
 # ProjectGA.Bootstrap
-Spanish language project.
-Curso de cocina
+Small landing page (Spanish language). 
+"Curso de cocina"
